@@ -7,6 +7,7 @@ C-Industrial-Training/
     │   ├── swap_two_numbers.c
     │   └── celsius_to_fahrenheit.c
     │
+    
 │── Day-2-Conditionals/
     │   ├── even_odd.c
     │   ├── largest_of_three.c
@@ -14,7 +15,8 @@ C-Industrial-Training/
     │   ├── grade_calculator.c
     │   ├── positive_negative_zero.c
     │   └── simple_calculator.c
-    │
+    │ 
+    
 │── Day-3-Loops/
     │   ├── print_1_to_n.c
     │   ├── sum_of_n_numbers.c
@@ -23,6 +25,7 @@ C-Industrial-Training/
     │   ├── count_digits.c
     │   └── prime_check.c
     │
+    
 │── Day-4-Functions/
     │   ├── sum_function.c
     │   ├── maximum_of_two_numbers.c
@@ -31,6 +34,7 @@ C-Industrial-Training/
     │   ├── power_function.c
     │   └── gcd_function.c
     │
+    
 │── Day-5-Arrays/
 
 │── Day-6-Strings/

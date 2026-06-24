@@ -1,6 +1,7 @@
 //C-Industrial-Training//
 
-    │── Day-1-Basics/
+│── Day-1-Basics/
+    
     |   ├── hello_world.c
     |   ├── sum_of_two_numbers.c
     |   ├── area_of_rectangle.c

@@ -1,51 +1,85 @@
-//C-Industrial-Training//
+## 📚 Topics Covered
 
-│── Day-1-Basics/
-    
-    |   ├── hello_world.c
-    |   ├── sum_of_two_numbers.c
-    |   ├── area_of_rectangle.c
-    |   ├── simple_interest.c
-    |   ├── swap_two_numbers.c
-    |   └── celsius_to_fahrenheit.c
-    
-    
-│── Day-2-Conditionals/
+### Day 1 – C++ Basics
+- Hello World
+- Sum of Two Numbers
+- Area of Rectangle
+- Simple Interest
+- Swap Two Numbers
+- Celsius to Fahrenheit Conversion
 
-    │   ├── even_odd.c
-    │   ├── largest_of_three.c
-    │   ├── leap_year.c
-    │   ├── grade_calculator.c
-    │   ├── positive_negative_zero.c
-    │   └── simple_calculator.c
-    │ 
-    
-│── Day-3-Loops/
+### Day 2 – Conditional Statements
 
-    │   ├── print_1_to_n.c
-    │   ├── sum_of_n_numbers.c
-    │   ├── factorial.c
-    │   ├── reverse_number.c
-    │   ├── count_digits.c
-    │   └── prime_check.c
-    │
-    
-│── Day-4-Functions/
+#### If / Else
+- Even or Odd
+- Largest of Three Numbers
+- Leap Year Checker
 
-    │   ├── sum_function.c
-    │   ├── maximum_of_two_numbers.c
-    │   ├── prime_check_function.c
-    │   ├── factorial_function.c
-    │   ├── power_function.c
-    │   └── gcd_function.c
-    │
-    
-│── Day-5-Arrays/
+#### If-Else Ladder & Switch
+- Grade Calculator
+- Positive / Negative / Zero
+- Simple Calculator
 
-│── Day-6-Strings/
+### Day 3 – Loops
+- Print 1 to N
+- Sum of N Numbers
+- Factorial
+- Reverse Number
+- Count Digits
+- Prime Number Check
 
-│── Day-7-Pointers/
+### Day 4 – Functions
+- Sum Function
+- Maximum of Two Numbers
+- Prime Check Function
+- Factorial Function
+- Power Function
+- GCD Function
 
-│── Day-8-Recursion/
+### Day 5 – Arrays
+- Maximum Element
+- Minimum Element
+- Sum of Array Elements
+- Reverse Array
+- Second Largest Element
+- Matrix Addition
 
-│── README.md
+### Day 6 – Strings
+- Count Vowels
+- Reverse String
+- Palindrome Check
+- Count Words
+- Convert Lowercase to Uppercase
+- Anagram Check
+
+### Day 7 – Pointers
+- Print Address
+- Swap Using Pointers
+- Array Sum Using Pointers
+- Largest Element Using Pointers
+- Traverse Array Using Pointers
+- Reverse Array Using Pointers
+
+### Day 8 – Recursion
+- Factorial
+- Fibonacci Series
+- Sum of N Numbers
+- Power Function
+- Reverse String
+- Palindrome Check
+
+### Day 9 – STL Vectors
+- Store and Print Elements
+- Maximum Element
+- Minimum Element
+- Reverse Vector
+- Remove Duplicates
+- Rotate Vector
+
+### Day 10 – STL Sets
+- Student Record Using Pair
+- Unique Elements
+- Count Distinct Elements
+- Union of Arrays
+- Intersection of Arrays
+- Remove Duplicates Using Set
